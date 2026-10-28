@@ -14,3 +14,14 @@ __pycache__/
 # Python virtual environments
 .venv/
 venv/
+
+# Local dataset (download separately)
+data/StudentsPerformance.csv
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Compiled binaries
+*.out
