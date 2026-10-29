@@ -1,0 +1,10 @@
+Model,Class,Precision,Recall,F1-score,Support
+Dummy Classifier,Low,0.0,0.0,0.0,20
+Dummy Classifier,Medium,0.575,1.0,0.7301587301587301,115
+Dummy Classifier,High,0.0,0.0,0.0,65
+Logistic Regression,Low,0.0,0.0,0.0,20
+Logistic Regression,Medium,0.6181818181818182,0.8869565217391304,0.7285714285714285,115
+Logistic Regression,High,0.6285714285714286,0.3384615384615385,0.44,65
+Neural Network,Low,0.0,0.0,0.0,20
+Neural Network,Medium,0.6162790697674418,0.9217391304347826,0.7386759581881533,115
+Neural Network,High,0.6785714285714286,0.2923076923076923,0.40860215053763443,65

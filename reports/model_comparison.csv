@@ -1,0 +1,4 @@
+Model,Accuracy,Macro-F1
+Logistic Regression,0.62,0.38952380952380955
+Neural Network,0.625,0.3824260362419292
+Dummy Classifier,0.575,0.24338624338624337
